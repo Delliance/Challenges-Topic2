@@ -1,8 +1,5 @@
 package configClassApproach;
 
-import org.springframework.stereotype.Component;
-
-@Component
 public class User {
 
 //    private String workerName; //not really using it
